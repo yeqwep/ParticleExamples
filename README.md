@@ -1,6 +1,6 @@
 ----
 
-# 🌟 Defold Particle Effects Example Pack 🌟
+# Defold Particle Effects Example Pack
 
 This is a **sample project** featuring highly versatile **particle effects** for the **Defold engine**.
 It includes **12 types** of effects that can be used immediately in various game genres such as Action, RPG, and Puzzle.
