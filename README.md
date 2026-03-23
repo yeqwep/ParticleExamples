@@ -30,7 +30,7 @@ The following effects are located in the `particles` folder within the project:
 
 -----
 
-## 🛠 How to Use (Beginner's Guide)
+## 🛠 How to Use
 
 ### 1\. How to check the project
 
