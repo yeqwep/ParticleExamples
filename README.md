@@ -1,6 +1,4 @@
-GitHubで世界中の開発者に見てもらえるよう、内容は変えずに自然な英語へ翻訳し、Markdown形式で整えました。Gif画像のプレースホルダーもそのまま維持しています。
-
------
+----
 
 # 🌟 Defold Particle Effects Example Pack 🌟
 
